@@ -3,7 +3,7 @@
 Desarrollo: LEE BIEN LAS CUESTIONES PLANTEADAS ANTES DE RESOLVERLAS. LEE BIEN LO QUE SE
 PIDE COMO RESPUESTA
 
-CUESTIÓN 1. POO en Java y colecciones
+      CUESTIÓN 1. POO en Java y colecciones
 
  Diseña un ejemplo de clases en donde puedas demostrar la herencia en Java. Explica si
 es posible realizar herencia múltiple en Java y por qué.
@@ -16,7 +16,7 @@ ejemplo qué diferencia hay entre colecciones de tipo lista, pila, cola y tabla.
 
    RESPUESTA CUESTION 1: Archivos correspondientes y en Github
 
-CUESTIÓN 2. Acceso a información con ficheros
+      CUESTIÓN 2. Acceso a información con ficheros
 
  Crea un archivo de texto con el enunciado de 10 preguntas. Desde consola muestra
 cada pregunta aleatoriamente. Cuando el usuario responde, se muestra la siguiente
@@ -30,7 +30,7 @@ punto, y cada errónea resta 0.5. La nota necesaria para aprobar es un 5
 
   RESPUESTA CUESTION 2.1.: Archivos correspondientes y en Github
 
-CUESTIÓN 3. Java CRUD
+      CUESTIÓN 3. Java CRUD
 
  Gestión de base de datos relacionales. Utilizando MySQL crea una base de datos en
 donde dispongamos de una tabla que permita almacenar lo siguientes datos de
